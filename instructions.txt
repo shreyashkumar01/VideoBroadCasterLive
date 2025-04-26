@@ -1,0 +1,13 @@
+Step1 : conda create -n broadcaster python3.11
+
+Step2: conda create broadcaster
+
+Step3: conda install python2..5..1 torchvision
+
+Step4: pip install -r requirements.txt
+
+Step5: open python interpreter
+
+Step6: import torch
+
+Step7: print(print(torch.cuda,is_available()))
