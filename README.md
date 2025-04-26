@@ -1,2 +1,2 @@
 # VideoBroadCasterLive
-This is a project for multiple camera features in online meeting platform like Google Meet as a Live Video Broad Casting.
+A Computer Vision-based Video Broadcaster that can be used as a virtual camera in various meeting applications like Google Meet, Zoom, and more.
